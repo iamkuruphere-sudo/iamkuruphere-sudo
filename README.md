@@ -4,4 +4,4 @@ I build useful software, including [MacSentinel](https://github.com/iamkuruphere
 
 ## Support my work
 
-If you find my work useful, [buy me a coffee via PayPal](https://paypal.me/fullstopsolution). Contributions are optional and do not unlock app features.
+Payment gateway integration is in progress. Support options will be shared here once available.
